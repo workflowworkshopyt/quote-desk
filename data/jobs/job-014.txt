@@ -1,0 +1,15 @@
+Job 014
+Date: 2026-10-15
+Customer: Milo at 21 Quarry Hill
+Technician: Jo
+Hours: 1
+Windows: 13
+
+Notes:
+- Water-fed pole used for the upper floor.
+- Frames and sills wiped down at the end.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Arrived about 40 minutes late because the previous job overran.
+- Light rain in the afternoon; inside panes done first.
+
+Outcome: follow-up needed

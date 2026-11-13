@@ -1,0 +1,14 @@
+Job 026
+Date: 2026-10-15
+Customer: Ana at 66 Quarry Hill
+Technician: Priya
+Hours: 1
+Windows: 21
+
+Notes:
+- Weather was dry and calm.
+- Left a card with the next suggested date.
+- Water-fed pole used for the upper floor.
+- Took before-and-after photos for the file.
+
+Outcome: no issues reported

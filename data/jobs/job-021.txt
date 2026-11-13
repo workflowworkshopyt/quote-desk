@@ -1,0 +1,15 @@
+Job 021
+Date: 2026-10-08
+Customer: Milo at 91 Mill Street
+Technician: Priya
+Hours: 2
+Windows: 14
+
+Notes:
+- Light rain in the afternoon; inside panes done first.
+- Screen cleaning was added on site and the customer was surprised by the higher total.
+- Took before-and-after photos for the file.
+- Weather was dry and calm.
+- Water-fed pole used for the upper floor.
+
+Outcome: follow-up needed

@@ -1,0 +1,15 @@
+Job 004
+Date: 2026-10-01
+Customer: Dev at 56 Tanner Row
+Technician: Jo
+Hours: 2.5
+Windows: 21
+
+Notes:
+- Dog in the garden, could not reach the rear windows until the owner came home.
+- Ladder needed for the bay window above the porch.
+- Payment taken on site by card.
+- Took before-and-after photos for the file.
+- Customer asked about a monthly schedule.
+
+Outcome: follow-up needed

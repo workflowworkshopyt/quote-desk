@@ -1,0 +1,15 @@
+Job 008
+Date: 2026-10-01
+Customer: Lena at 74 Willow Drive
+Technician: Priya
+Hours: 3
+Windows: 6
+
+Notes:
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Left a card with the next suggested date.
+- Customer pointed out streaks on the south-facing panes after the glass dried in the sun.
+- Frames and sills wiped down at the end.
+- Weather was dry and calm.
+
+Outcome: follow-up needed

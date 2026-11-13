@@ -1,0 +1,14 @@
+Job 013
+Date: 2026-10-08
+Customer: Chloe at 45 Station Parade
+Technician: Sam
+Hours: 1.5
+Windows: 21
+
+Notes:
+- Took before-and-after photos for the file.
+- Weather was dry and calm.
+- Water-fed pole used for the upper floor.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+
+Outcome: no issues reported

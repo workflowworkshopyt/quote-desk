@@ -1,0 +1,15 @@
+Job 012
+Date: 2026-10-01
+Customer: Ella at 34 Orchard Close
+Technician: Sam
+Hours: 1.5
+Windows: 14
+
+Notes:
+- Light rain in the afternoon; inside panes done first.
+- Water-fed pole used for the upper floor.
+- Arrived about 40 minutes late because the previous job overran.
+- Left a card with the next suggested date.
+- Payment taken on site by card.
+
+Outcome: follow-up needed

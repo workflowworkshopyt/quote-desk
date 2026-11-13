@@ -1,0 +1,15 @@
+Job 024
+Date: 2026-10-01
+Customer: Dev at 11 Birch Lane
+Technician: Sam
+Hours: 1
+Windows: 7
+
+Notes:
+- Took before-and-after photos for the file.
+- Water-fed pole used for the upper floor.
+- Arrived about 40 minutes late because the previous job overran.
+- Frames and sills wiped down at the end.
+- Payment taken on site by card.
+
+Outcome: follow-up needed

@@ -1,0 +1,15 @@
+Job 009
+Date: 2026-10-08
+Customer: Lena at 6 Orchard Close
+Technician: Priya
+Hours: 3
+Windows: 16
+
+Notes:
+- Frames and sills wiped down at the end.
+- Customer said the side window behind the shed was skipped; we had no access that day.
+- Ladder needed for the bay window above the porch.
+- Light rain in the afternoon; inside panes done first.
+- Weather was dry and calm.
+
+Outcome: follow-up needed

@@ -1,0 +1,15 @@
+Job 015
+Date: 2026-10-22
+Customer: Kai at 12 Quarry Hill
+Technician: Tom
+Hours: 3
+Windows: 7
+
+Notes:
+- Two skylights were missed because they were not on the booking form.
+- Frames and sills wiped down at the end.
+- Weather was dry and calm.
+- Ladder needed for the bay window above the porch.
+- Water-fed pole used for the upper floor.
+
+Outcome: follow-up needed

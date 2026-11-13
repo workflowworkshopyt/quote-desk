@@ -1,0 +1,15 @@
+Job 035
+Date: 2026-10-22
+Customer: Hugo at 87 Quarry Hill
+Technician: Sam
+Hours: 2.5
+Windows: 8
+
+Notes:
+- Took before-and-after photos for the file.
+- Customer asked about a monthly schedule.
+- Gate was locked on arrival; waited 20 minutes for the neighbour with the key.
+- Weather was dry and calm.
+- Light rain in the afternoon; inside panes done first.
+
+Outcome: follow-up needed

@@ -1,0 +1,15 @@
+Job 030
+Date: 2026-10-15
+Customer: Lena at 17 Rowan Court
+Technician: Tom
+Hours: 3
+Windows: 16
+
+Notes:
+- Water-fed pole used for the upper floor.
+- Frames and sills wiped down at the end.
+- Payment taken on site by card.
+- Running late after the van was blocked in; called ahead but customer was unhappy.
+- Ladder needed for the bay window above the porch.
+
+Outcome: follow-up needed

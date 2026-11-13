@@ -1,0 +1,14 @@
+Job 017
+Date: 2026-10-08
+Customer: Milo at 81 Orchard Close
+Technician: Priya
+Hours: 2.5
+Windows: 28
+
+Notes:
+- Weather was dry and calm.
+- Payment taken on site by card.
+- Frames and sills wiped down at the end.
+- Water-fed pole used for the upper floor.
+
+Outcome: no issues reported

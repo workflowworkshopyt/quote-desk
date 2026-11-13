@@ -1,0 +1,15 @@
+Job 001
+Date: 2026-10-08
+Customer: Dev at 41 Station Parade
+Technician: Sam
+Hours: 2
+Windows: 7
+
+Notes:
+- Customer pointed out streaks on the south-facing panes after the glass dried in the sun.
+- Left a card with the next suggested date.
+- Light rain in the afternoon; inside panes done first.
+- Frames and sills wiped down at the end.
+- Ladder needed for the bay window above the porch.
+
+Outcome: follow-up needed

@@ -1,0 +1,15 @@
+Job 029
+Date: 2026-10-08
+Customer: Ines at 72 Willow Drive
+Technician: Priya
+Hours: 2
+Windows: 28
+
+Notes:
+- Customer queried the ladder fee, which was not mentioned when the quote was given.
+- Water-fed pole used for the upper floor.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Light rain in the afternoon; inside panes done first.
+- Left a card with the next suggested date.
+
+Outcome: follow-up needed

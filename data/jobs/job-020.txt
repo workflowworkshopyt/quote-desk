@@ -1,0 +1,14 @@
+Job 020
+Date: 2026-10-01
+Customer: Hugo at 52 Kestrel Way
+Technician: Tom
+Hours: 1.5
+Windows: 17
+
+Notes:
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Ladder needed for the bay window above the porch.
+- Light rain in the afternoon; inside panes done first.
+- Took before-and-after photos for the file.
+
+Outcome: no issues reported

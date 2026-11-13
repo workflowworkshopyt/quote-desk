@@ -1,0 +1,15 @@
+Job 032
+Date: 2026-10-01
+Customer: Ana at 30 Birch Lane
+Technician: Jo
+Hours: 2.5
+Windows: 23
+
+Notes:
+- Light rain in the afternoon; inside panes done first.
+- Took before-and-after photos for the file.
+- Frames and sills wiped down at the end.
+- Running late after the van was blocked in; called ahead but customer was unhappy.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+
+Outcome: follow-up needed

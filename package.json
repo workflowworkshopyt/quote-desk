@@ -1,0 +1,10 @@
+{
+  "name": "quote-desk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "quote": "node src/cli.ts",
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,15 @@
+Job 027
+Date: 2026-10-22
+Customer: Hugo at 70 Orchard Close
+Technician: Tom
+Hours: 2.5
+Windows: 24
+
+Notes:
+- Gate was locked on arrival; waited 20 minutes for the neighbour with the key.
+- Payment taken on site by card.
+- Water-fed pole used for the upper floor.
+- Frames and sills wiped down at the end.
+- Left a card with the next suggested date.
+
+Outcome: follow-up needed

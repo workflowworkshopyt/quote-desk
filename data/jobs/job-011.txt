@@ -1,0 +1,14 @@
+Job 011
+Date: 2026-10-22
+Customer: Ines at 31 Orchard Close
+Technician: Sam
+Hours: 4
+Windows: 8
+
+Notes:
+- Frames and sills wiped down at the end.
+- Left a card with the next suggested date.
+- Water-fed pole used for the upper floor.
+- Customer asked about a monthly schedule.
+
+Outcome: no issues reported

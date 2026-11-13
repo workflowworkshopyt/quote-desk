@@ -1,0 +1,15 @@
+Job 007
+Date: 2026-10-22
+Customer: Hugo at 60 Station Parade
+Technician: Jo
+Hours: 2.5
+Windows: 18
+
+Notes:
+- Weather was dry and calm.
+- Payment taken on site by card.
+- Screen cleaning was added on site and the customer was surprised by the higher total.
+- Frames and sills wiped down at the end.
+- Light rain in the afternoon; inside panes done first.
+
+Outcome: follow-up needed

@@ -1,0 +1,15 @@
+Job 025
+Date: 2026-10-08
+Customer: Jon at 57 Tanner Row
+Technician: Priya
+Hours: 3
+Windows: 24
+
+Notes:
+- Screen cleaning was added on site and the customer was surprised by the higher total.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Payment taken on site by card.
+- Water-fed pole used for the upper floor.
+- Ladder needed for the bay window above the porch.
+
+Outcome: follow-up needed

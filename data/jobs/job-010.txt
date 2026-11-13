@@ -1,0 +1,15 @@
+Job 010
+Date: 2026-10-15
+Customer: Jon at 13 Willow Drive
+Technician: Priya
+Hours: 3
+Windows: 28
+
+Notes:
+- Streaking visible on the patio doors; re-did them with the squeegee at a lower angle.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Frames and sills wiped down at the end.
+- Payment taken on site by card.
+- Left a card with the next suggested date.
+
+Outcome: follow-up needed

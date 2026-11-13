@@ -1,0 +1,14 @@
+Job 036
+Date: 2026-10-01
+Customer: Femi at 27 Kestrel Way
+Technician: Priya
+Hours: 1.5
+Windows: 23
+
+Notes:
+- Customer asked about a monthly schedule.
+- Light rain in the afternoon; inside panes done first.
+- Weather was dry and calm.
+- Frames and sills wiped down at the end.
+
+Outcome: no issues reported

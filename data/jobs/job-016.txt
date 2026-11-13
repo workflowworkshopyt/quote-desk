@@ -1,0 +1,14 @@
+Job 016
+Date: 2026-10-01
+Customer: Milo at 97 Station Parade
+Technician: Sam
+Hours: 1
+Windows: 8
+
+Notes:
+- Customer asked about a monthly schedule.
+- Frames and sills wiped down at the end.
+- Took before-and-after photos for the file.
+- Payment taken on site by card.
+
+Outcome: no issues reported

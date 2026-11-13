@@ -1,0 +1,15 @@
+Job 006
+Date: 2026-10-15
+Customer: Kai at 98 Kestrel Way
+Technician: Priya
+Hours: 1.5
+Windows: 30
+
+Notes:
+- Weather was dry and calm.
+- Customer asked about a monthly schedule.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Customer said the side window behind the shed was skipped; we had no access that day.
+- Ladder needed for the bay window above the porch.
+
+Outcome: follow-up needed

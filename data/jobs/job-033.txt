@@ -1,0 +1,15 @@
+Job 033
+Date: 2026-10-08
+Customer: Femi at 96 Orchard Close
+Technician: Tom
+Hours: 1.5
+Windows: 18
+
+Notes:
+- Water-fed pole used for the upper floor.
+- Weather was dry and calm.
+- Customer queried the ladder fee, which was not mentioned when the quote was given.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Light rain in the afternoon; inside panes done first.
+
+Outcome: follow-up needed

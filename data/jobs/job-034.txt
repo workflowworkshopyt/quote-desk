@@ -1,0 +1,14 @@
+Job 034
+Date: 2026-10-15
+Customer: Jon at 52 Mill Street
+Technician: Tom
+Hours: 3
+Windows: 6
+
+Notes:
+- Frames and sills wiped down at the end.
+- Ladder needed for the bay window above the porch.
+- Payment taken on site by card.
+- Light rain in the afternoon; inside panes done first.
+
+Outcome: no issues reported

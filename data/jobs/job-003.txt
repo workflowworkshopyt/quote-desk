@@ -1,0 +1,15 @@
+Job 003
+Date: 2026-10-22
+Customer: Jon at 60 Harbor Road
+Technician: Sam
+Hours: 2.5
+Windows: 24
+
+Notes:
+- Two skylights were missed because they were not on the booking form.
+- Frames and sills wiped down at the end.
+- Payment taken on site by card.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Weather was dry and calm.
+
+Outcome: follow-up needed

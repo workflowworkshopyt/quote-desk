@@ -1,0 +1,15 @@
+Job 022
+Date: 2026-10-15
+Customer: Ines at 4 Harbor Road
+Technician: Sam
+Hours: 3
+Windows: 18
+
+Notes:
+- Left a card with the next suggested date.
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Water-fed pole used for the upper floor.
+- Streaking visible on the patio doors; re-did them with the squeegee at a lower angle.
+- Payment taken on site by card.
+
+Outcome: follow-up needed

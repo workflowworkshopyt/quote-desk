@@ -1,0 +1,15 @@
+Job 002
+Date: 2026-10-15
+Customer: Femi at 25 Tanner Row
+Technician: Tom
+Hours: 3
+Windows: 21
+
+Notes:
+- Payment taken on site by card.
+- Frames and sills wiped down at the end.
+- Dog in the garden, could not reach the rear windows until the owner came home.
+- Ladder needed for the bay window above the porch.
+- Left a card with the next suggested date.
+
+Outcome: follow-up needed

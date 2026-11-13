@@ -1,0 +1,14 @@
+Job 018
+Date: 2026-10-15
+Customer: Ella at 95 Tanner Row
+Technician: Priya
+Hours: 1.5
+Windows: 8
+
+Notes:
+- Payment taken on site by card.
+- Light rain in the afternoon; inside panes done first.
+- Frames and sills wiped down at the end.
+- Weather was dry and calm.
+
+Outcome: no issues reported

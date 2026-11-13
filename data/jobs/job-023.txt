@@ -1,0 +1,15 @@
+Job 023
+Date: 2026-10-22
+Customer: Nora at 6 Harbor Road
+Technician: Jo
+Hours: 2.5
+Windows: 20
+
+Notes:
+- Running late after the van was blocked in; called ahead but customer was unhappy.
+- Customer asked about a monthly schedule.
+- Water-fed pole used for the upper floor.
+- Left a card with the next suggested date.
+- Ladder needed for the bay window above the porch.
+
+Outcome: follow-up needed

@@ -1,0 +1,15 @@
+Job 028
+Date: 2026-10-01
+Customer: Nora at 70 Quarry Hill
+Technician: Sam
+Hours: 1.5
+Windows: 15
+
+Notes:
+- Hard water marks on the conservatory roof, advised a deep clean next visit.
+- Weather was dry and calm.
+- Left a card with the next suggested date.
+- Dog in the garden, could not reach the rear windows until the owner came home.
+- Ladder needed for the bay window above the porch.
+
+Outcome: follow-up needed

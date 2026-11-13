@@ -1,0 +1,15 @@
+Job 019
+Date: 2026-10-22
+Customer: Kai at 30 Rowan Court
+Technician: Priya
+Hours: 1.5
+Windows: 22
+
+Notes:
+- Customer asked about a monthly schedule.
+- Gate was locked on arrival; waited 20 minutes for the neighbour with the key.
+- Left a card with the next suggested date.
+- Took before-and-after photos for the file.
+- Ladder needed for the bay window above the porch.
+
+Outcome: follow-up needed

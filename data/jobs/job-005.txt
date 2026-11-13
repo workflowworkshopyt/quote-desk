@@ -1,0 +1,15 @@
+Job 005
+Date: 2026-10-08
+Customer: Grace at 50 Station Parade
+Technician: Sam
+Hours: 2.5
+Windows: 13
+
+Notes:
+- Light rain in the afternoon; inside panes done first.
+- Customer pointed out streaks on the south-facing panes after the glass dried in the sun.
+- Weather was dry and calm.
+- Frames and sills wiped down at the end.
+- Ladder needed for the bay window above the porch.
+
+Outcome: follow-up needed
